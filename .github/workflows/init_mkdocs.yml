@@ -1,4 +1,5 @@
-name: docs 
+name: init_docs
+ 
 on:
   push:
     branches:
