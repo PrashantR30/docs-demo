@@ -47,9 +47,9 @@ extra_css:
 nav:
   - Home: index.md
   - section_1:
-    - page_1.md
-    - page_2.md
+    - Page 1: page_1.md
+    - Page 2: page_2.md
   - section_2:
-    - page_1.md
-    - page_2.md
+    - Page 1: page_1.md
+    - Page 2: page_2.md
   
