@@ -1,0 +1,24 @@
+site_name: "My Docs"
+
+theme:
+  name: material
+  version:
+    provider: mike
+    default: latest
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+
+plugins:
+  - search
+  - mermaid2
+  - mike
+
+extra:
+  version:
+    provider: mike
+    default: latest
