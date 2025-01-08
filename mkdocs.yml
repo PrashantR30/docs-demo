@@ -49,6 +49,11 @@ extra:
     provider: mike
     default: latest
 
+
+plugins:
+  - search
+  - mike
+
 nav:
   - Home: index.md
   - section_1:
