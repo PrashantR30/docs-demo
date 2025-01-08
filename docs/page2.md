@@ -1,8 +1,8 @@
-Page 0.0.5 - Document version 0.0.5
+Page 0.0.6 - Document version 0.0.6
 
 
-## 0.0.5
+## 0.0.6
 
-## 0.0.5
+## 0.0.6
 
-## 0.0.5
+## 0.0.6
