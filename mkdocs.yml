@@ -35,7 +35,8 @@ extra_css:
 
 plugins:
   - search
-  - no-sitemap
+  - sitemap:
+      compress: false
 
 nav:
   - Welcome to the k0rdent docs: index.md
