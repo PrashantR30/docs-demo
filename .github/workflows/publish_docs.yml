@@ -55,7 +55,7 @@ jobs:
       - name: Install mkdocs-material and mike
         run: |
           python -m pip install --upgrade pip
-          pip install mkdocs-material mike mkdocs-mermaid2-plugin
+          pip install mkdocs-material mike mkdocs-mermaid2-plugin mkdocs-sitemap
 
       - name: Deploy docs for the last 2 tags
         run: |
