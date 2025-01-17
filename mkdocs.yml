@@ -32,11 +32,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
- 
+
 plugins:
   - search
-  - sitemap:
-      generate: false
+  - no-sitemap
 
 nav:
   - Welcome to the k0rdent docs: index.md
