@@ -31,8 +31,12 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+ 
 plugins:
   - search
+  - sitemap:
+      generate: false
 
 nav:
   - Welcome to the k0rdent docs: index.md
@@ -49,7 +53,6 @@ nav:
     - Upgrade a single cluster: tutorial_1_upgrade_single_cluster.md
     - Install a ServiceTemplate into a single cluster: tutorial_2_install_service_template_single_cluster.md
     - Install a ServiceTemplate into multiple clusters: tutorial_3_install_service_template_into_multiple_clusters.md
-
 
 
 markdown_extensions:
