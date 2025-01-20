@@ -95,3 +95,5 @@ jobs:
           # Update alias for the latest version
           # mike alias "$latest" latest --push
           mike set-default "$latest" --push
+
+          
